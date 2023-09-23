@@ -1,0 +1,15 @@
+p{
+    color: blue;
+}
+/* h1- Color para titulos */
+
+h1{
+    color:#0f9d58;   /* couleur du texte*/
+    color: rgb(30, 92, 133);
+}
+body{
+    background-color: #d1ef0c ;    /*couleur de fond*/
+}
+head{
+    background-image : url("fide.ino")
+}
